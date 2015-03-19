@@ -11,16 +11,16 @@ Let's stop trying to build native apps by transpiling HTML5, Javsscript & CSS, a
 
 OWAG is a completely transparent and open movement. There are no set ideas or roadmap, nor are there any concrete plans currently in place. Placeholder repositories have been set up within this organisation to allow people to contribute, explore and grow the group from the outside in.
 
-All that OWAG currently has is a vision. To build an ecosystem and a community and give web developers a firm identity. To build a brand behind web development to bring it inline with native apps. The gap between web apps and native apps is smaller than ever, but in order to close that gap web applications need a champion. 
+All that OWAG currently has is a vision. To build an ecosystem and a community and give web developers a firm identity; to build a brand behind web development to bring it inline with native apps.
 
-Vendors will not stop compromising web apps on their devices in favour of their own native platforms without pressure and lobbying from the community. OWAG will find solutions to these problems.
+The gap between web apps and native apps is smaller than ever, but in order to close that gap web applications need a champion. Vendors will not stop compromising web apps on their devices in favour of their own native platforms without pressure and lobbying from the community. OWAG will find solutions to these problems.
 
 
 # How can you help?
 
 Pick a repository, and open an issue as a means of discussion. This can be absolutely anything at all, but if you don't open an issue then OWAG can't move forward. Suggest something in the ideas repository, or help us form a structure in the governance repository. Alternatively you can submit pull requests to the toolkit or the sample.
 
-Remember, the Open Web Apps group currently barely exists, and we need you to help us build it!
+Remember, the Open Web Apps group currently does not yet exist, and we need you to help us build it!
 
 
 Pete
